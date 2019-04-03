@@ -29,7 +29,7 @@
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html"><span>BudyUp</span></a>
+	      <a class="navbar-brand" href="index.html"><span><img src="images/logo.png" alt="logo" height="150" width="300"></span></a>
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -50,7 +50,7 @@
 	    </div>
 	  </nav>
     
-    <section class="hero-wrap js-fullheight" style="background-image: url('images/back2.jpg');" data-section="home">
+    <section class="hero-wrap js-fullheight" style="background-image: url('images/back1.jpg');" data-section="home">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
